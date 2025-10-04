@@ -1,10 +1,10 @@
-package com.example
+package com.github.atomyque.sigmaclientforge
 
 import net.minecraft.init.Blocks
 import net.minecraftforge.fml.common.Mod
 import net.minecraftforge.fml.common.event.FMLInitializationEvent
 
-@Mod(modid = "examplemod", useMetadata = true)
+@Mod(modid = "sigmaclientforge", useMetadata = true)
 class ExampleMod {
     @Mod.EventHandler
     fun init(event: FMLInitializationEvent) {
