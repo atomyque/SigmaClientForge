@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${mod_id}",
+    "name": "Example Mod",
+    "description": "A mod that is used as an example.",
+    "version": "${mod_version}",
+    "mcversion": "${mc_version}",
+    "url": "https://github.com/StellariumMC/Forge1.8.9Template/",
+    "updateUrl": "",
+    "authorList": [
+      "You"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
